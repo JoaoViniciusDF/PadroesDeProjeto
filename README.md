@@ -1,2 +1,2 @@
 # PadroesDeProjeto
-Exemplos de padrões de projetos em Java
+Exemplos simples da implementação de padrões de projetos em Java
